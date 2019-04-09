@@ -38,7 +38,7 @@ const Form = props => {
       <button
         className='btn btn-outline-primary btn-sm btn-block'
         type='submit'>
-        Show another user and to the list
+        Find another user and add to the list
       </button>
     </form>
   );
