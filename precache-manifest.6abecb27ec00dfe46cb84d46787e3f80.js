@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/react-githubusercards/static/js/runtime~main.516877f8.js"
   },
   {
-    "revision": "10786b552b536eb2382e",
-    "url": "/react-githubusercards/static/js/main.f7704f7f.chunk.js"
+    "revision": "6e4687380498b0e08de3",
+    "url": "/react-githubusercards/static/js/main.cd78a28b.chunk.js"
   },
   {
     "revision": "dd1f748363f3ecec7763",
     "url": "/react-githubusercards/static/js/2.c2aae781.chunk.js"
   },
   {
-    "revision": "10786b552b536eb2382e",
+    "revision": "6e4687380498b0e08de3",
     "url": "/react-githubusercards/static/css/main.947a85f5.chunk.css"
   },
   {
-    "revision": "b45673441f574ffebd376cab3ae91f3d",
+    "revision": "f20a7df7eb1ad3cad9922c87e47ca808",
     "url": "/react-githubusercards/index.html"
   }
 ];
